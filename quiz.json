@@ -1,21 +1,21 @@
 [
 
 
-{ "title":"1"
-"id":"1"
-"link":"https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-dallas-shootings-don-add-are-speech-zones-used-4.png"
-"answer":"Apple"
-"optiona":"Apple"
-"optionb":"Mi"
-"optionc":"Realme"
+{ "title":"1",
+"id":"1",
+"link":"https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-dallas-shootings-don-add-are-speech-zones-used-4.png",
+"answer":"Apple",
+"optiona":"Apple",
+"optionb":"Mi",
+"optionc":"Realme",
 "optiond":"Samsung" },
 
-{ "title":"2"
-"id":"2"
-"link":"aaa"
-"answer":"B"
-"optiona":"A"
-"optionb":"B"
-"optionc":"C"
+{ "title":"2",
+"id":"2",
+"link":"aaa",
+"answer":"B",
+"optiona":"A",
+"optionb":"B",
+"optionc":"C",
 "optiond":"D" }
 ]
