@@ -1,0 +1,27 @@
+[
+  {
+    "userid": "111",
+    "username": "Nils",
+    "country": "India"
+  },
+  {
+    "userid": "222",
+    "username": "Rock",
+    "country": "United States"
+  },
+  {
+    "userid": "333",
+    "username": "Smith",
+    "country": "Australia"
+  },
+  {
+    "userid": "444",
+    "username": "John",
+    "country": "Canada"
+  },
+  {
+    "userid": "555",
+    "username": "Mack",
+    "country": "United Kingdom"
+  }
+]
