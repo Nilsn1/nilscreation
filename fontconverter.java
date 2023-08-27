@@ -36,3 +36,4 @@ private void shree_dev(String str) {
 
         title = str;
                                                                                                                                                   }
+.replace("च्छ", "ÀN>").replace("वर्ष", "df©").replace("प्रार्थना", "àmW©Zm").replace("आशीर्वाद", "Amerd©mX").replace("शुभाशिर्वाद", "ew^m{ed©mX").replace("प्रिय", "{à`")
