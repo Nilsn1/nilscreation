@@ -50,27 +50,19 @@
 	"labels": [
 		{
 			"term": "Crime",
-			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/culture.jpg"
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/crime.jpg"
 		},
 		{
 			"term": "Horror",
-			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/education.jpg"
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/horror.jpg"
 		},
 		{
 			"term": "Fantasy/Adventure",
-			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/entertainment.jpg"
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/fantasy-adventure.jpg"
 		},
 		{
-			"term": "Misc",
+			"term": "Facts",
 			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/misc.jpg"
-		},
-		{
-			"term": "National",
-			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/national.jpg"
-		},
-		{
-			"term": "World",
-			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/world.jpg"
 		}
 	]
 }
