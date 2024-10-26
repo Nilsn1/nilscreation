@@ -49,7 +49,7 @@
 	},
 	"labels": [
 		{
-			"term": "Thriller",
+			"term": "Crime/Thriller",
 			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/crime.jpg"
 		},
 		{
@@ -58,11 +58,11 @@
 		},
 		{
 			"term": "Fantasy/Adventure",
-			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/fantasy-adventure.jpg"
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/facts.jpg"
 		},
 		{
 			"term": "Facts",
-			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/misc.jpg"
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/fantasy-adventure.jpg""
 		},
 		{
 			"term": "History",
