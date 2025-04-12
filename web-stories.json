@@ -1,0 +1,31 @@
+{
+	"blog": {
+		"blogger_id": "4065014397445935872",
+		"api_key": "AIzaSyBh2nyHI4mUfOQcXtm9DIH3pJAb5z3wx5U"
+	},
+	"ads": {
+		"ad_status": "0",
+	},
+	"labels": [
+		{
+			"term": "Crime/Thriller",
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/thriller.jpg"
+		},
+		{
+			"term": "Horror",
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/horror.jpg"
+		},
+		{
+			"term": "Fantasy/Adventure",
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/fantasy-adventure.jpg"
+		},
+		{
+			"term": "Facts",
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/facts.jpg"
+		},
+		{
+			"term": "History",
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/history.jpg"
+		}
+	]
+}
