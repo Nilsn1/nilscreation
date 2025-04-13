@@ -9,7 +9,7 @@
 	"labels": [
 		{
 			"term": "Animals",
-			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/thriller.jpg"
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/shortiz/animals.jpg"
 		},
 		{
 			"term": "History",
@@ -20,7 +20,7 @@
 			"image": "https://github.com/Nilsn1/nilscreation/raw/main/shortiz/health.jpg"
 		},
 		{
-			"term": "Technology",
+			"term": "Science/Technology",
 			"image": "https://github.com/Nilsn1/nilscreation/raw/main/shortiz/technology.jpg"
 		},
 		{
@@ -29,15 +29,15 @@
 		},
 		{
 			"term": "Mystery",
-			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/facts.jpg"
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/shortiz/mystery.jpg"
 		},
 		{
 			"term": "Movies",
-			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/facts.jpg"
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/shorties/movies.jpg"
 		},
 		{
 			"term": "Psychology",
-			"image": "https://github.com/Nilsn1/nilscreation/raw/main/Podcast/Categories/facts.jpg"
+			"image": "https://github.com/Nilsn1/nilscreation/raw/main/shortiz/psychology.jpg"
 		},
 		{
 			"term": "Mix",
