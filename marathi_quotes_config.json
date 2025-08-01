@@ -1,7 +1,7 @@
 {
   "ad_status": "1",
   "native_ad_interval": "4",
-  "interstitial_ad_interval": "4",
+  "interstitial_ad_interval": "3",
   "message": "Configuration fetched successfully",
   "maintenance_mode": "0"
 }
