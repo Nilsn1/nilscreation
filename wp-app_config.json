@@ -1,5 +1,5 @@
 {
-  "categories" : [1, 3, 4, 5],
+  "categories" : [1, 3, 5],
   "ad_status": "0",
   "native_ad_interval": "4",
   "interstitial_ad_interval": "3",
