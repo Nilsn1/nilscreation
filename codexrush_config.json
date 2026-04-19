@@ -1,5 +1,7 @@
 {
   "ad_status": "1",
+  "banner_id": "2xxxx",
+  "interstitial_id": "2xxxx",
   "native_ad_interval": "4",
   "interstitial_ad_interval": "2",
   "message": "Configuration fetched successfully",
